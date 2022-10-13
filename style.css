@@ -14,7 +14,7 @@ body{
 
 header{
     display: flex;
-    background-image: url(/images/header.jpg);
+    background-image: url(images/header.jpg);
     background-repeat: no-repeat;
     height: 30rem;
     width: 100%;
